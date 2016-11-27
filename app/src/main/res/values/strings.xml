@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">geo-sender</string>
+    <string name="startingService">Starting background service…</string>
+    <string name="startedService">Background service started √</string>
+    <string name="google">http://google.com</string>
+</resources>
